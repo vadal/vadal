@@ -1,4 +1,4 @@
-## 🌟 Hello World! I'm Vasiliki
+## 🌟 Hello World! I'm Vassiliki
 
 I'm a tech nerd with 15+ years in engineering who is happiest when building things and talking about them. My passion lies in breaking down complex AI/ML and software engineering concepts in a way that makes people smile and believe they can also do it.
 

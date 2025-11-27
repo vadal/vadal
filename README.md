@@ -1,8 +1,8 @@
 ## 🌟 Hello World! I'm Vasiliki
 
-I'm a tech nerd with 15+ years in engineering who is happiest when building things and talking about them. My passion lies in breaking down complex AI/ML concepts in a way that makes people smile and believe they can also do it.
+I'm a tech nerd with 15+ years in engineering who is happiest when building things and talking about them. My passion lies in breaking down complex AI/ML and software engineering concepts in a way that makes people smile and believe they can also do it.
 
-Currently, I'm the **AI/R&D Manager at Public Next**, where I turn cool AI ideas into practical, value-driven products.
+Currently, I'm the **AI/R&D Manager at Public Next** (the biggest retailer in Greece), where I turn cool AI ideas into practical, value-driven products.
 I am also the creator of [MovieGroovy](https://www.moviegroovy.gr/en), a free AI powered movies and series recommender that understands emotion.
 
 ---

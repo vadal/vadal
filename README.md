@@ -11,6 +11,7 @@ I am also the creator of [MovieGroovy](https://www.moviegroovy.gr/), a free AI p
 
 I love sharing my knowledge at conferences and meetups.
 
+* **WTM Greece Tech Summit - 2026:** The Three (Gen)AI Myths That Break Your System
 * **PyLadies Athens 1st Meetup - 2025:** PyScript Christmas Workshop
 * **PyLadiesCon 2025:** MovieGroovy: Building a Mood-Based Recommender with Python and Empathy
 * **Open Conf 2025:** From Vibe to Movie: Building a GenAI powered recommender that understands Emotion
